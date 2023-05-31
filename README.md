@@ -1,6 +1,6 @@
 # Infinite Scroll List and Search
 <p align="center">
-<img src="https://mobx.netlify.app/mobx.svg" with=200>
+<img src="https://mobx.netlify.app/mobx.svg" with=200 height=200>
 </p>
 
 <p align="center">
